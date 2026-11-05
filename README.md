@@ -90,6 +90,31 @@ payments.
                                       using them.
   -----------------------------------------------------------------------
 
+## Application screenshots
+
+The following screenshots show the main RouteWise AI interface and its key workflows.
+
+### Home
+![RouteWise AI home page](screenshots/home.png)
+
+### Plan Your Trip
+![RouteWise AI trip planning form](screenshots/plan-your-trip.png)
+
+### My Itinerary — Day-by-Day Plan
+![RouteWise AI day-by-day itinerary](screenshots/itinerary-day-by-day.png)
+
+### My Itinerary — Map
+![RouteWise AI itinerary map](screenshots/itinerary-map.png)
+
+### My Itinerary — Route Details
+![RouteWise AI route details](screenshots/itinerary-route-details.png)
+
+### Budget Planner
+![RouteWise AI budget planner](screenshots/budget-planner.png)
+
+### Smart Replanning
+![RouteWise AI smart replanning](screenshots/smart-replanning.png)
+
 ## How it works
 
 A travel request is validated and passed to the application
