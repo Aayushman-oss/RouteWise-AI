@@ -1,0 +1,29 @@
+# RouteWise AI – Python Dependencies
+# =====================================
+# Install:  pip install -r requirements.txt
+
+# ── Core Framework ──────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── IBM watsonx.ai SDK ──────────────────────────────────────────────
+ibm-watsonx-ai>=1.1.26
+
+# ── Environment & Config ────────────────────────────────────────────
+python-dotenv>=1.0.0
+
+# ── Data Processing ─────────────────────────────────────────────────
+pandas>=2.1.0
+pydantic>=2.5.0
+
+# ── Visualization ───────────────────────────────────────────────────
+plotly>=5.18.0
+
+# ── Mapping ─────────────────────────────────────────────────────────
+folium>=0.15.0
+streamlit-folium>=0.18.0
+
+# ── HTTP Client ─────────────────────────────────────────────────────
+requests>=2.31.0
+
+# ── Standard library extras (ensure compatible versions) ────────────
+certifi>=2023.7.22
